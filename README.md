@@ -22,3 +22,5 @@
 ---
 ![Monthly Activity](https://github-readme-activity-graph.vercel.app/graph?username=miroshantoshan&theme=github-compact&hide_border=true&area=true&height=300&custom_title=Активность%20за%20месяц)
 
+![Contribution Grid](https://ghchart.rshah.org/miroshantoshan)
+
