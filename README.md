@@ -20,5 +20,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miroshantoshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![Visitors](https://visit-count.vercel.app/api/count?id=YourId&style=for-the-badge)
+![Commits](https://badges.pufler.dev/commits/monthly/miroshantoshan)
 
