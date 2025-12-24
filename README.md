@@ -20,5 +20,5 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miroshantoshan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-![Commits](https://badges.pufler.dev/commits/monthly/miroshantoshan)
+![Monthly Activity](https://github-readme-activity-graph.vercel.app/graph?username=miroshantoshan&theme=github-compact&hide_border=true&area=true&height=300&custom_title=Активность%20за%20месяц)
 
