@@ -7,7 +7,7 @@
 </p>
 
 # 💫 About Me:
-👋 I'm a junior backend developer. <br>💻 I am work with Python and create open-source projects<br>⚙️Works on debian<br><br>
+👋 I'm a backend developer. <br>💻 I am work with Python and create open-source projects<br>⚙️Works on debian<br><br>
 
 ##  Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/miron4477)         [![Telegram](https://img.shields.io/badge/Telegram-%237181DA.svg?logo=telegram&logoColor=white)](https://t.me/fisamacode) 
